@@ -4,7 +4,7 @@
 
 ## Contents 
 * ListView usage with Cards
-* Models for Price,Product, etc
+* Models for Price,Product, etc.
 * Components usage
 
 ## App Screenshots
